@@ -1,0 +1,34 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgba(44, 33, 206, 0.178);
+}
+
+.container {
+    margin-top: 20px;
+}
+
+h1 { text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+}
+
+h2{
+    text-align: center;
+}
+input, button {
+    margin: 5px;
+}
+
+button {
+    padding: 8px 16px;
+    color: green;
+    background-color: skyblue;
+    font-size: 20px;
+    padding: 10px;
+}
